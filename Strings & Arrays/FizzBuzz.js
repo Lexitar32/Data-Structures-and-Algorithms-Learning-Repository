@@ -21,7 +21,7 @@
 
 // Solution
 
-var fizzBuzz = function (n) {
+function fizzBuzz(n) {
     let myArray = [];
 
     for (let i = 1; i <= n; i++) {
