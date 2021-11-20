@@ -38,3 +38,6 @@ function fizzBuzz(n) {
 
     return myArray;
 };
+
+// Time Complexity - O(n) 
+// Space Complexity - O(n)
