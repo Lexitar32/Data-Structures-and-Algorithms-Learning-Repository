@@ -48,3 +48,6 @@ function twoEquivalentArray(word1, word2) {
     // If it is not the same, return false
     return false;
 };
+
+// Time Complexity - O(n)
+// Space Complexity - O(n)
