@@ -10,7 +10,6 @@
 
 
 //     Example 1:
-
 // Input: operations = ["--X", "X++", "X++"]
 // Output: 1
 // Explanation: The operations are performed as follows:
