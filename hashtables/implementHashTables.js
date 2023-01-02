@@ -100,5 +100,4 @@ myHashTable.set("orange", 50);
 myHashTable.get("orange");
 myHashTable.keys();
 myHashTable.values();
-
 console.log(myHashTable);
