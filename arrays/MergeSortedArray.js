@@ -14,6 +14,7 @@ function mergeSortedArray(nums1, m, nums2, n) {
     // k will be at m+n-1
     // compare i and j values and add it to k then decrement the pointer index till it is at index 0
 
+    
     let i = m - 1;
     let j = n - 1;
     let k = m + n -1;
