@@ -45,4 +45,3 @@ function bestTimeToSellAStock(prices) {
   }
   
   console.log(bestTimeToSellAStock([7, 1, 5, 3, 6, 8]))
-  
