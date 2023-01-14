@@ -5,7 +5,6 @@ function containsDuplicate(nums) {
   // Loop through the array twice starting from index 1 and 2
   // return true if the values in the two indexes are the same
   // Time Complexity 0(n^2) and Space Complexity of 0(1)
-
   // for(let i = 0; i < nums.length; i++) {
   //     for (let j = i + 1; j < nums.length; j++) {
   //         if(nums[i] == nums[j]) {
@@ -13,7 +12,6 @@ function containsDuplicate(nums) {
   //         }
   //     }
   // }
-
   // Solution 2
   // Solution Steps
   // Create an hash map for holding elements of the nums array
